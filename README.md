@@ -4,6 +4,9 @@
 要python3.8以上版本
 
 
+安装依赖pip install -r requirements.txt
+
+
 
 启动服务：python convert_api.py
 
