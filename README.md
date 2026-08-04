@@ -1,6 +1,9 @@
 如果你使用的翻译工具只支持ai api并且只需要繁简转换的话，比如翻译繁体漫画，可以用这个伪装成openai兼容提供翻译服务
 省去了token费，也不会有ai乱改标点的问题 
 
+要python3.8以上版本
+
+
 
 启动服务：python convert_api.py
 
